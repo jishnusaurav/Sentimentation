@@ -1,6 +1,6 @@
 # Sentimentation
 
-##This is an AI and ML based sentiment analysis developed using the flask framework in python.
+This is an AI and ML based sentiment analysis developed using the flask framework in python.
 
 ## For install and run the application :
 ```pip
